@@ -1,2 +1,2 @@
 # shmily
-privates projects
+# this is for java
